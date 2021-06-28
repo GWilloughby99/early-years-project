@@ -12,7 +12,7 @@ image2: /assets/article_images/outside-play-mobile.jpg
     <link rel="stylesheet" href="/assets/css/style.css">
 
 <h1> Tackling the sustainability of early years childcare in the UK through a solution-based approach </h1>
-<br> <audio class="about-audio" controls style="float:right" src="/assets/audio/about-page.mp3" </audio>
+<!-- <br> <audio class="about-audio" controls style="float:right" src="/assets/audio/about-page.mp3" </audio> -->
 <h5>Listen to this page </h5>
 <br>
 <hr>
@@ -22,9 +22,7 @@ image2: /assets/article_images/outside-play-mobile.jpg
 <p> As a journalist, it is expected that we report on social issues and raise awareness for those struggling. While true, I believe this should be taken one step further. Based on the notion of <a href="https://www.solutionsjournalism.org/">solutions journalism</a>, this project will aim to establish what possible changes can be made for the early years sector. </p>
 <p> This is a different approach to much of the contemporary reporting of childcare. Through a plethora of voices - including academics, professionals and charities - I will be discussing what the solutions are in making early years childcare more affordable for settings and parents. </p>
 
-<img class="profile-image" src="/assets/images/profile.png">
-![Profile picture](https://GWilloughby99/early-years-project/assets/images/profile.png)
-
+<!-- <img class="profile-image" src="/assets/images/profile.png"> -->
     
 <p> My name is George Willoughby and I am the person behind this project. I am a data journalism MA student at Birmingham City University. I also studied journalism and communications at Cardiff University for my undergraduate degree. Having spent two years working at a pre-school, I was exposed to the aforementioned challenges. I developed an understanding of why funding shortfalls create such a variety of problems and I want to see what can be done to solve them. </p>
 
