@@ -12,8 +12,7 @@ image2: /assets/article_images/outside-play-mobile.jpg
     <link rel="stylesheet" href="/assets/css/style.css">
 
 <h1> Tackling the sustainability of early years childcare in the UK through a solution-based approach </h1>
-<br> <audio class="about-audio" controls style="float:right">
-  <src="/assets/audio/about-page.mp3" </audio>
+<br> <audio class="about-audio" controls style="float:right" src="/assets/audio/about-page.mp3" </audio>
 <h5>Listen to this page </h5>
 <br>
 <hr>
@@ -24,6 +23,7 @@ image2: /assets/article_images/outside-play-mobile.jpg
 <p> This is a different approach to much of the contemporary reporting of childcare. Through a plethora of voices - including academics, professionals and charities - I will be discussing what the solutions are in making early years childcare more affordable for settings and parents. </p>
 
 <img class="profile-image" src="/assets/images/profile.png">
+    
 <p> My name is George Willoughby and I am the person behind this project. I am a data journalism MA student at Birmingham City University. I also studied journalism and communications at Cardiff University for my undergraduate degree. Having spent two years working at a pre-school, I was exposed to the aforementioned challenges. I developed an understanding of why funding shortfalls create such a variety of problems and I want to see what can be done to solve them. </p>
 
 <p> Despite tireless efforts from early years staff and charities, policy reforms don't seem to be on the horizon. However, that doesn't mean we can't continue to emphasise the need for reform. </p>
