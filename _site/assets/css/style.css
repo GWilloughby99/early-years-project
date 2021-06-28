@@ -1,0 +1,18 @@
+/* Images */
+
+.profile-image {
+  float:right;
+  /* height: 500px; */
+  padding-left: 30px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-right: -13vw !important; width: 15vw !important;
+/*   margin: 8rem; */
+}
+}
+
+/* Audio */
+
+.about-audio {
+  float:right;
+}

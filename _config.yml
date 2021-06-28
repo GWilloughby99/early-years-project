@@ -1,0 +1,65 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Early years childcare"
+description: > # this means to ignore newlines until "email:"
+   A major project looking at the sustainability of childcare provision in the UK
+
+email: gwjournalism@googlemail.com
+#blog logo
+logo: "/assets/images/profile.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/playground.jpg"
+
+name: 'George Willoughby'
+author: 'GWJournalism'
+author_image: "/assets/images/profile.png"
+
+paginate:	5
+
+url: "http://GWilloughby99.github.io" # the base hostname & protocol for your site
+baseurl: /early-years-project
+
+#used to display twitter cards
+twitter_handle: '@gwjournalism'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/GWJournalism
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: instagram
+    url:  https://www.instagram.com/gwjournalism/
+    desc: Follow me on Instagram
+
+
+
+  - icon:	github
+    url:	https://github.com/GWilloughby99
+    desc:	Follow me on github
+    share_url:
+    share_title:
+    share_link:
+
+  
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
