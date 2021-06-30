@@ -24,9 +24,10 @@ image2: "/assets/article_images/money-mobile.jpg"
 
 <p> This scheme of 30 hours free entitlement has been <a href="https://www.theguardian.com/money/2017/feb/08/introduction-of-30-hours-free-childcare-could-mean-shortage-of-places">under scrutiny</a> since it was introduced. Childcare providers have raised concerns over sustainability and affordability.</p>
 
-<figure>
+
 <img src="/assets/article_images/fence.jpg" alt="The 30 hours of entitlement requires additional funding to cover the cost and also settings need to ensure they have a sufficient number of available employees to staff it. Picture source: Pixabay.">
-</figure>
+  
+![Fence](/assets/article_images/fence.jpg)
 <hr>
 <h2>Who is eligible for the scheme? </h2>
 <p> For two-year-old free entitlement, parents must receive one of the following:</p>
