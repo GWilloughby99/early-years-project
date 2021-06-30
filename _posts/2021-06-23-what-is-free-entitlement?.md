@@ -1,5 +1,5 @@
 ---
-layout: post.html
+layout: post
 title:  "EXPLAINER: What is free entitlement?"
 date:   2021-06-23 11:34:25
 categories: 
@@ -7,6 +7,7 @@ tags:
 image: "/assets/article_images/money.jpg"
 image2: "/assets/article_images/money-mobile.jpg"
 ---
+<!DOCTYPE html>
 <html>
 <h2> Free entitlement </h2>
 <p>Funding early years education can be a little complicated. This explainer will take a look at free entitlement, a government scheme to allow free childcare. The scheme covers children ranging from two-year-olds to three-and-four-year-olds. But how does it all work?
