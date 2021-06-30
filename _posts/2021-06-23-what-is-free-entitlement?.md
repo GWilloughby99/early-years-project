@@ -13,7 +13,7 @@ image2: "/assets/article_images/money-mobile.jpg"
 <br>
 <h5>Listen to this post</h5>
 <br>
-<audio controls> <src="/assets/audio/free-entitlement.mp3">
+<audio controls> <src="/assets/audio/free-entitlement.mp3"> </audio>
 <hr>
 <h2> What is free entitlement? </h2>
 <p>As it states in the name, free entitlement means that parents can get a certain amount of free childcare. Early years settings can offer entitlement places that parents can take up if they are eligible.</p>
