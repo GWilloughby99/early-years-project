@@ -15,7 +15,7 @@ image2: "../assets/article_images/outside-play-mobile.jpg"
 <h1> Tackling the sustainability of early years childcare in the UK through a solution-based approach </h1>
 <!-- <h5>Listen to this page </h5> -->
 <br>
-<audio class="about-audio" controls src="../assets/audio/about-page.mp3" </audio>
+<!-- <audio class="about-audio" controls src="../assets/audio/about-page.mp3" </audio> -->
 <hr>
 <br>
 <p> Funding early years education is a challenging task. From entitlement rates, rising staff costs and now a pandemic, settings have been under financial pressure for a sustained period. </p>
