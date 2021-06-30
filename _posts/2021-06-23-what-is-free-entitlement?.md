@@ -7,13 +7,13 @@ tags:
 image: "/assets/article_images/money.jpg"
 image2: "/assets/article_images/money-mobile.jpg"
 ---
-<html>
+
 <h2> Free entitlement </h2>
 <p>Funding early years education can be a little complicated. This explainer will take a look at free entitlement, a government scheme to allow free childcare. The scheme covers children ranging from two-year-olds to three-and-four-year-olds. But how does it all work?
 <br>
 <h5>Listen to this post</h5>
 <br>
-<audio controls> <src="/assets/audio/free-entitlement.mp3"> </audio>
+<!-- <audio controls> <src="/assets/audio/free-entitlement.mp3"> </audio> -->
 <hr>
 <h2> What is free entitlement? </h2>
 <p>As it states in the name, free entitlement means that parents can get a certain amount of free childcare. Early years settings can offer entitlement places that parents can take up if they are eligible.</p>
