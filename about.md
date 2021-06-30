@@ -2,6 +2,7 @@
 layout: page
 title: More about this early years project
 date:   2021-06-30 11:34:25
+permalink: /about/
 image: "../assets/article_images/money.jpg"
 image2: "../assets/article_images/outside-play-mobile.jpg"
 ---
