@@ -7,8 +7,7 @@ tags:
 image: "/assets/article_images/money.jpg"
 image2: "/assets/article_images/money-mobile.jpg"
 ---
-<html>
-  <body>
+
 <h2> Free entitlement </h2>
 <p>Funding early years education can be a little complicated. This explainer will take a look at free entitlement, a government scheme to allow free childcare. The scheme covers children ranging from two-year-olds to three-and-four-year-olds. But how does it all work?
 <br>
@@ -64,4 +63,4 @@ image2: "/assets/article_images/money-mobile.jpg"
 
 <p>A child to start later, but they must be in full-time education by the time they reach ‘compulsory school age'. This is on 31 December, 31 March or 31 August following their fifth birthday, whichever comes first.</p>
 
-  </html>
+
