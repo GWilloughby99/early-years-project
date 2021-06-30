@@ -13,7 +13,8 @@ image2: "/assets/article_images/money-mobile.jpg"
 <p>Funding early years education can be a little complicated. This explainer will take a look at free entitlement, a government scheme to allow free childcare. The scheme covers children ranging from two-year-olds to three-and-four-year-olds. But how does it all work?
 <br>
 <br>
-<audio controls style="float:right"> <src="/assets/audio/free-entitlement.mp3" </audio>
+<audio controls> <src="/assets/audio/free-entitlement.mp3" </audio>
+ <br>
 <h5>Listen to this post</h5>
 <hr>
 <h2> What is free entitlement? </h2>
@@ -62,3 +63,5 @@ image2: "/assets/article_images/money-mobile.jpg"
 <p> When your child is two or between the ages of three and four. Most children after their fourth birthday will start school in September meaning they leave the early years setting.</p>
 
 <p>A child to start later, but they must be in full-time education by the time they reach ‘compulsory school age'. This is on 31 December, 31 March or 31 August following their fifth birthday, whichever comes first.</p>
+
+  </html>
