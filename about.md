@@ -2,7 +2,6 @@
 layout: page
 title: More about this early years project
 date:   2021-06-30 11:34:25
-permalink: /about/
 image: "../assets/article_images/money.jpg"
 image2: "../assets/article_images/outside-play-mobile.jpg"
 ---
@@ -13,9 +12,9 @@ image2: "../assets/article_images/outside-play-mobile.jpg"
     <link rel="stylesheet" href="/assets/css/style.css">
 
 <h1> Tackling the sustainability of early years childcare in the UK through a solution-based approach </h1>
-<!-- <br> <audio class="about-audio" controls style="float:right" src="/assets/audio/about-page.mp3" </audio> -->
 <h5>Listen to this page </h5>
 <br>
+<audio class="about-audio" controls src="/assets/audio/about-page.mp3" </audio>
 <hr>
 <br>
 <p> Funding early years education is a challenging task. From entitlement rates, rising staff costs and now a pandemic, settings have been under financial pressure for a sustained period. </p>
