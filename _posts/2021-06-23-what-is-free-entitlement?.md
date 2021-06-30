@@ -13,7 +13,7 @@ image2: "/assets/article_images/money-mobile.jpg"
 <br>
 <h5>Listen to this post</h5>
 <br>
-<audio controls> <src="/assets/audio/free-entitlement.mp3"> </audio>
+<audio controls> <src="./assets/audio/free-entitlement.mp3"> </audio>
 <hr>
 <h2> What is free entitlement? </h2>
 <p>As it states in the name, free entitlement means that parents can get a certain amount of free childcare. Early years settings can offer entitlement places that parents can take up if they are eligible.</p>
@@ -25,7 +25,7 @@ image2: "/assets/article_images/money-mobile.jpg"
 <p> This scheme of 30 hours free entitlement has been <a href="https://www.theguardian.com/money/2017/feb/08/introduction-of-30-hours-free-childcare-could-mean-shortage-of-places">under scrutiny</a> since it was introduced. Childcare providers have raised concerns over sustainability and affordability.</p>
 
 
-<img src="/assets/article_images/fence.jpg" alt="The 30 hours of entitlement requires additional funding to cover the cost and also settings need to ensure they have a sufficient number of available employees to staff it. Picture source: Pixabay.">
+<img src="./assets/article_images/fence.jpg" alt="The 30 hours of entitlement requires additional funding to cover the cost and also settings need to ensure they have a sufficient number of available employees to staff it. Picture source: Pixabay.">
   
 
 <hr>
@@ -48,7 +48,7 @@ image2: "/assets/article_images/money-mobile.jpg"
 <p>To check if you are available for free entitlement, the government has an <a href="https://www.gov.uk/apply-30-hours-free-childcare">application process</a>. Parents can enter details and see what entitlement is available to them.</p>
 
 
-<img src="/assets/article_images/childcare-application.png" alt="This website is where parents can apply for entitlement. Screengrab took from the official government website. Access the website via: https://www.gov.uk/apply-30-hours-free-childcare">
+<img src="./assets/article_images/childcare-application.png" alt="This website is where parents can apply for entitlement. Screengrab took from the official government website. Access the website via: https://www.gov.uk/apply-30-hours-free-childcare">
 <hr>
 
 <h2> How will I know if my application has been approved? </h2>
