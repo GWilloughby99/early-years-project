@@ -2,7 +2,7 @@
 layout: post
 title:  "EXPLAINER: What is free entitlement?"
 date:   2021-06-23 11:34:25
-categories: mediator feature
+categories: 
 tags:
 image: "/assets/article_images/money.jpg"
 image2: "/assets/article_images/money-mobile.jpg"
