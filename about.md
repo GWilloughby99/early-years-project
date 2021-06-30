@@ -2,8 +2,8 @@
 layout: page
 title: More about this early years project
 permalink: /about/
-image: /assets/article_images/outside-play.jpg
-image2: /assets/article_images/outside-play-mobile.jpg
+image: "/assets/article_images/outside-play.jpg"
+image2: "/assets/article_images/outside-play-mobile.jpg"
 ---
 
 <html>
@@ -22,7 +22,7 @@ image2: /assets/article_images/outside-play-mobile.jpg
 <p> As a journalist, it is expected that we report on social issues and raise awareness for those struggling. While true, I believe this should be taken one step further. Based on the notion of <a href="https://www.solutionsjournalism.org/">solutions journalism</a>, this project will aim to establish what possible changes can be made for the early years sector. </p>
 <p> This is a different approach to much of the contemporary reporting of childcare. Through a plethora of voices - including academics, professionals and charities - I will be discussing what the solutions are in making early years childcare more affordable for settings and parents. </p>
 
-<!-- <img class="profile-image" src="/assets/images/profile.png"> -->
+<img class="profile-image" src="/assets/images/profile.png">
     
 <p> My name is George Willoughby and I am the person behind this project. I am a data journalism MA student at Birmingham City University. I also studied journalism and communications at Cardiff University for my undergraduate degree. Having spent two years working at a pre-school, I was exposed to the aforementioned challenges. I developed an understanding of why funding shortfalls create such a variety of problems and I want to see what can be done to solve them. </p>
 
