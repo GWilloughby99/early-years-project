@@ -22,7 +22,7 @@ author_image: "/assets/images/profile.png"
 
 paginate:	5
 
-url: "http://GWilloughby99.github.io" # the base hostname & protocol for your site
+url: "http://GWilloughby99.github.io/early-years-project/" # the base hostname & protocol for your site
 baseurl: /early-years-project
 
 #used to display twitter cards
