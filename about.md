@@ -13,6 +13,7 @@ image2: "../assets/article_images/outside-play-mobile.jpg"
     <link rel="stylesheet" href="../assets/css/style.css">
 
 <h1> Tackling the sustainability of early years childcare in the UK through a solution-based approach </h1>
+    <br>
 <h5>Listen to this page </h5>
 <br>
 <audio class="about-audio" controls src="../assets/audio/about-page.mp3"> </audio>
