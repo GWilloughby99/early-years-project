@@ -4,52 +4,21 @@
     <title>Early years childcare</title>
     <description>A major project looking at the sustainability of childcare provision in the UK
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Jun 2021 10:34:07 +0100</pubDate>
-    <lastBuildDate>Mon, 28 Jun 2021 10:34:07 +0100</lastBuildDate>
+    <link>http://localhost:4000/early-years-project/</link>
+    <atom:link href="http://localhost:4000/early-years-project/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 02 Jul 2021 11:27:02 +0100</pubDate>
+    <lastBuildDate>Fri, 02 Jul 2021 11:27:02 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
-    
-      <item>
-        <title>Key talking points from the latest APPG childcare and education meeting</title>
-        <description>&lt;html&gt;
-&lt;h2&gt;Reason to be optimistic?&lt;/h2&gt;
-&lt;a href=&quot;https://www.youtube.com/watch?v=gHJK-_R5Uv8&amp;amp;t=3s&quot;&gt;Link to the meeting&lt;/a&gt;
-&lt;/html&gt;
-</description>
-        <pubDate>Fri, 25 Jun 2021 10:34:25 +0100</pubDate>
-        <link>http://localhost:4000/mediator/feature/2021/06/25/key-talking-points-from-the-APPG-on-childcare-and-education.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediator/feature/2021/06/25/key-talking-points-from-the-APPG-on-childcare-and-education.html</guid>
-        
-        <category>Early</category>
-        
-        <category>years</category>
-        
-        <category>funding</category>
-        
-        <category>SEND</category>
-        
-        <category>Spending</category>
-        
-        <category>Review</category>
-        
-        
-        <category>mediator</category>
-        
-        <category>feature</category>
-        
-      </item>
     
       <item>
         <title>EXPLAINER: What is free entitlement?</title>
         <description>&lt;html&gt;
-  &lt;body&gt;
 &lt;h2&gt; Free entitlement &lt;/h2&gt;
 &lt;p&gt;Funding early years education can be a little complicated. This explainer will take a look at free entitlement, a government scheme to allow free childcare. The scheme covers children ranging from two-year-olds to three-and-four-year-olds. But how does it all work?
 &lt;br /&gt;
-&lt;br /&gt;
-&lt;audio controls=&quot;&quot; style=&quot;float:right&quot;&gt; &amp;lt;src=&quot;/assets/audio/free-entitlement.mp3&quot; &lt;/audio&gt;
 &lt;h5&gt;Listen to this post&lt;/h5&gt;
+&lt;br /&gt;
+&lt;audio controls=&quot;&quot; src=&quot;/early-years-project/assets/audio/free-entitlement.mp3&quot;&gt; &lt;/audio&gt;
 &lt;hr /&gt;
 &lt;h2&gt; What is free entitlement? &lt;/h2&gt;
 &lt;p&gt;As it states in the name, free entitlement means that parents can get a certain amount of free childcare. Early years settings can offer entitlement places that parents can take up if they are eligible.&lt;/p&gt;
@@ -60,9 +29,10 @@
 
 &lt;p&gt; This scheme of 30 hours free entitlement has been &lt;a href=&quot;https://www.theguardian.com/money/2017/feb/08/introduction-of-30-hours-free-childcare-could-mean-shortage-of-places&quot;&gt;under scrutiny&lt;/a&gt; since it was introduced. Childcare providers have raised concerns over sustainability and affordability.&lt;/p&gt;
 
-&lt;figure&gt;
-&lt;img src=&quot;/assets/article_images/fence.jpg&quot; alt=&quot;The 30 hours of entitlement requires additional funding to cover the cost and also settings need to ensure they have a sufficient number of available employees to staff it. Picture source: Pixabay.&quot; /&gt;
-&lt;/figure&gt;
+
+&lt;img src=&quot;/early-years-project/assets/article_images/fence.jpg&quot; alt=&quot;The 30 hours of entitlement requires additional funding to cover the cost and also settings need to ensure they have a sufficient number of available employees to staff it. Picture source: Pixabay.&quot; /&gt;
+  
+
 &lt;hr /&gt;
 &lt;h2&gt;Who is eligible for the scheme? &lt;/h2&gt;
 &lt;p&gt; For two-year-old free entitlement, parents must receive one of the following:&lt;/p&gt;
@@ -74,7 +44,7 @@
 &lt;li&gt;Universal Credit (with an annual net income of no more than £15,400)&lt;/li&gt;
 &lt;li&gt;Tax Credits (with an annual gross income of no more than £16,190)&lt;/li&gt;
 &lt;li&gt;Working Tax Credit 4-week run on (the payment you get when you stop qualifying for Working Tax Credit)&lt;/li&gt;
-&lt;li&gt;Support through &apos;part 6&apos; under the Immigration and Asylum Act (NASS support)&lt;/li&gt;
+&lt;li&gt;Support through 'part 6' under the Immigration and Asylum Act (NASS support)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt; Children can also be eligible if they are looked after by the local authority, have an education, health and care plan, are in receipt of disability living allowance or have left care through special guardianship or an adoption or residence order. &lt;/p&gt;
@@ -83,7 +53,7 @@
 &lt;p&gt;To check if you are available for free entitlement, the government has an &lt;a href=&quot;https://www.gov.uk/apply-30-hours-free-childcare&quot;&gt;application process&lt;/a&gt;. Parents can enter details and see what entitlement is available to them.&lt;/p&gt;
 
 
-&lt;img src=&quot;/assets/article_images/childcare-application.png&quot; alt=&quot;This website is where parents can apply for entitlement. Screengrab took from the official government website. Access the website via: https://www.gov.uk/apply-30-hours-free-childcare&quot; /&gt;
+&lt;img src=&quot;/early-years-project/assets/article_images/childcare-application.png&quot; alt=&quot;This website is where parents can apply for entitlement. Screengrab took from the official government website. Access the website via: https://www.gov.uk/apply-30-hours-free-childcare&quot; /&gt;
 &lt;hr /&gt;
 
 &lt;h2&gt; How will I know if my application has been approved? &lt;/h2&gt;
@@ -96,51 +66,15 @@
 &lt;h2&gt; How long do I get entitlement for?&lt;/h2&gt;
 &lt;p&gt; When your child is two or between the ages of three and four. Most children after their fourth birthday will start school in September meaning they leave the early years setting.&lt;/p&gt;
 
-&lt;p&gt;A child to start later, but they must be in full-time education by the time they reach ‘compulsory school age&apos;. This is on 31 December, 31 March or 31 August following their fifth birthday, whichever comes first.&lt;/p&gt;
-&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;
+&lt;p&gt;A child to start later, but they must be in full-time education by the time they reach ‘compulsory school age'. This is on 31 December, 31 March or 31 August following their fifth birthday, whichever comes first.&lt;/p&gt;
+
+
+&lt;/p&gt;&lt;/html&gt;
 </description>
         <pubDate>Wed, 23 Jun 2021 12:34:25 +0100</pubDate>
-        <link>http://localhost:4000/mediator/feature/2021/06/23/what-is-free-entitlement.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediator/feature/2021/06/23/what-is-free-entitlement.html</guid>
+        <link>http://localhost:4000/early-years-project/2021/06/23/what-is-free-entitlement.html</link>
+        <guid isPermaLink="true">http://localhost:4000/early-years-project/2021/06/23/what-is-free-entitlement.html</guid>
         
-        
-        <category>mediator</category>
-        
-        <category>feature</category>
-        
-      </item>
-    
-      <item>
-        <title>Regional disparity in free entitlement rates</title>
-        <description>&lt;html&gt;
-&lt;h2&gt; Entitlement rates and just how much do they vary across the country?&lt;/h2&gt;
-&lt;br /&gt;
-&lt;p&gt;&lt;b&gt;Listen to this article&lt;/b&gt;&lt;/p&gt;
-&lt;hr /&gt;
-  &lt;p&gt; As expected, due to different standards of living, the median hourly rate of free entitlement given to local authorities varies. &lt;a href=&quot;https://www.gov.uk/government/publications/early-years-funding-2020-2021&quot;&gt;Data released by the government&lt;/a&gt; gives a clear picture as to how much regional variation there is.&lt;/p&gt;
-&lt;div class=&quot;flourish-embed flourish-table&quot; data-src=&quot;visualisation/6519252&quot;&gt;&lt;script src=&quot;https://public.flourish.studio/resources/embed.js&quot;&gt;&lt;/script&gt;&lt;/div&gt;
-
-
-&lt;iframe title=&quot;Authorities outside of London are more likely to receive the minimum hourly rate of entitlement for three-and-four-year-olds&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-zEi1j&quot; src=&quot;https://datawrapper.dwcdn.net/zEi1j/1/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;686&quot;&gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
-&lt;/script&gt;
-
-
-&lt;iframe title=&quot;Authorities in London are more likely to receive above the minimum hourly rate of entitlement for three-and-four-year-olds&quot; aria-label=&quot;Bar Chart&quot; id=&quot;datawrapper-chart-Habhz&quot; src=&quot;https://datawrapper.dwcdn.net/Habhz/2/&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 0; min-width: 100% !important; border: none;&quot; height=&quot;686&quot;&gt;&lt;/iframe&gt;&lt;script type=&quot;text/javascript&quot;&gt;!function(){&quot;use strict&quot;;window.addEventListener(&quot;message&quot;,(function(e){if(void 0!==e.data[&quot;datawrapper-height&quot;]){var t=document.querySelectorAll(&quot;iframe&quot;);for(var a in e.data[&quot;datawrapper-height&quot;])for(var r=0;r&lt;t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[&quot;datawrapper-height&quot;][a]+&quot;px&quot;}}}))}();
-&lt;/script&gt;
-&lt;/html&gt;
-</description>
-        <pubDate>Tue, 22 Jun 2021 16:30:00 +0100</pubDate>
-        <link>http://localhost:4000/early/years/funding/entitlement/2021/06/22/An-approach-to-the-regional-variation-in-entitlement-rates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/early/years/funding/entitlement/2021/06/22/An-approach-to-the-regional-variation-in-entitlement-rates.html</guid>
-        
-        
-        <category>early</category>
-        
-        <category>years</category>
-        
-        <category>funding</category>
-        
-        <category>entitlement</category>
         
       </item>
     
