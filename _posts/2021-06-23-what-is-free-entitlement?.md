@@ -61,6 +61,6 @@ image2: "/assets/article_images/money-mobile.jpg"
 <h2> How long do I get entitlement for?</h2>
 <p> When your child is two or between the ages of three and four. Most children after their fourth birthday will start school in September meaning they leave the early years setting.</p>
 
-<p>A child to start later, but they must be in full-time education by the time they reach ‘compulsory school age'. This is on 31 December, 31 March or 31 August following their fifth birthday, whichever comes first.</p>
+<p>A child can start later, but they must be in full-time education by the time they reach ‘compulsory school age'. This is on 31 December, 31 March or 31 August following their fifth birthday, whichever comes first.</p>
 
 
