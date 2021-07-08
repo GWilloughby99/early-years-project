@@ -58,9 +58,7 @@ image2: "/assets/article_images/bar-mobile.jpg"
 
 “The brain development in babies is huge. I think society, in general, does not understand how this applies to the early years. I liked everything Kate Middleton wrote and she was bringing attention to something that someone has needed to for a long time. That is why I am hopeful.” </blockquote>
 
-<iframe width="100%" height="500"
-src="https://youtu.be/ct5mLfktEF4">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ct5mLfktEF4?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <h3>Funding, bureaucracy and affordability</h3>
 
