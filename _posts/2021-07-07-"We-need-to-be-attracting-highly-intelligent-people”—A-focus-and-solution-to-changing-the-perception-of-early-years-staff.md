@@ -3,7 +3,7 @@ layout: post
 title:  "'We need to be attracting highly intelligent people' — A focus and solution to changing the perception of early years staff"
 date:   2021-07-07
 categories: feature
-tags:  funding SEND 
+tags:
 image: "/assets/article_images/bar.png"
 image2: "/assets/article_images/bar-mobile.jpg"
 ---
