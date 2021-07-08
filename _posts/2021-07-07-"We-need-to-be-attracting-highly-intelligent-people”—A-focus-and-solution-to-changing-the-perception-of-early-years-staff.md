@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'We need to be attracting highly intelligent people' — A focus and solution to changing the perception of early years staff"
-date:   2021-07-07
+date:   2021-07-08
 categories:
 tags:
 image: "/assets/article_images/child-blocks.jpg"
