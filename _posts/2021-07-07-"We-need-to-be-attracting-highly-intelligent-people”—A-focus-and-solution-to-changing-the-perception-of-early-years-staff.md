@@ -101,7 +101,7 @@ There needs to be more highly qualified and knowledgeable people working with yo
  <hr>
  <p>📧 Want to stay in the loop of all things early years? Subscribe to my <a href="http://eepurl.com/ho9yUv">newsletter</a></p>
  <br>
-<p> Featured image source: <a href="https://pixabay.com/photos/child-tower-building-blocks-blocks-1864718/'>Pixabay</a></p>
+<p> Featured image source: <a href="https://pixabay.com/photos/child-tower-building-blocks-blocks-1864718/">Pixabay</a></p>
 
       
       
