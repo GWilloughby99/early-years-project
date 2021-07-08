@@ -2,7 +2,7 @@
 layout: post
 title:  "'We need to be attracting highly intelligent people' — A focus and solution to changing the perception of early years staff"
 date:   2021-07-07
-categories: feature
+categories:
 tags:
 image: "/assets/article_images/bar.png"
 image2: "/assets/article_images/bar-mobile.jpg"
@@ -101,9 +101,8 @@ There needs to be more highly qualified and knowledgeable people working with yo
  <hr>
  <p>📧 Want to stay in the loop of all things early years? Subscribe to my <a href="http://eepurl.com/ho9yUv">newsletter</a></p>
  <br>
- <img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}"
- 
- <img src="/assets/article_images/newsletter-logo.png">
+
+
       
       
  
