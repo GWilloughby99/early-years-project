@@ -4,8 +4,8 @@ title:  "'We need to be attracting highly intelligent people' — A focus and so
 date:   2021-07-07
 categories:
 tags:
-image: "/assets/article_images/bar.png"
-image2: "/assets/article_images/bar-mobile.jpg"
+image: "/assets/article_images/child-blocks.jpg"
+image2: "/assets/article_images/child-blocks-mobile.jpg"
 ---
 <html>
 <p><b>“This is not just about being able to pay minimum wage easily, that is not the right approach. We need skilled people and to give them the time to properly assess children and be able to plan properly to give them what they need.”</b>
