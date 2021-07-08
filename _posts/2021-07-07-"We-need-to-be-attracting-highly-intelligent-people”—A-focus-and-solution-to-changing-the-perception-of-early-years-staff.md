@@ -99,8 +99,10 @@ There needs to be more highly qualified and knowledgeable people working with yo
 <p>For someone who has been in the sector for three decades, Claire has some space to feel hopeful. The work of the Duchess of Cambridge should raise awareness for early years and highlight the importance of brain development. Changing societal attitudes towards the sector will take time. But, the pandemic should have shown families with young children just how important early years provision is. </p>
   
  <hr>
- <p>📧 Want to stay in the loop of all things early years? Subscribe to my newsletter: http://eepurl.com/ho9yUv</p>
+ <p>Want to stay in the loop of all things early years? Subscribe to my newsletter: http://eepurl.com/ho9yUv</p>
  <br>
  <img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}"
+      
+      
  
   
