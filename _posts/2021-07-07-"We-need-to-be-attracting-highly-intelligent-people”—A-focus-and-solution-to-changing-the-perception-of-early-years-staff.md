@@ -102,6 +102,8 @@ There needs to be more highly qualified and knowledgeable people working with yo
  <p>📧 Want to stay in the loop of all things early years? Subscribe to my <a href="http://eepurl.com/ho9yUv">newsletter</a></p>
  <br>
  <img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}"
+ 
+ <img src="/assets/article_images/newsletter-logo.png">
       
       
  
