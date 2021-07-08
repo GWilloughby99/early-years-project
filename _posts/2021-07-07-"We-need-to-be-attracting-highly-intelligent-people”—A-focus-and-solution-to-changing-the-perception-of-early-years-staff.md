@@ -82,7 +82,7 @@ image2: "/assets/article_images/bar-mobile.jpg"
 
 <blockquote>“I strongly believe that we really need to increase the calibre of people who are working in early years. It needs to stop being about babysitting children and start being about their brain development.
 
-“There needs to be more highly qualified and knowledgeable people working with young children. More investment needs to go into early years at the younger age because then there will be less need to invest at the top end.” </blockquote>
+There needs to be more highly qualified and knowledgeable people working with young children. More investment needs to go into early years at the younger age because then there will be less need to invest at the top end.” </blockquote>
 
 <h3>Solutions, policies and evaluating how society sees early years provision</h3>
 
