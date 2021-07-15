@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'We need to be attracting highly intelligent people' — Nursery owner Claire Kenyon on altering the perception of the workforce
+title:  "'We need to be attracting highly intelligent people' — Nursery owner Claire Kenyon on altering the perception of the workforce"
 date:   2021-07-08
 categories:
 tags:
