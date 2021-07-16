@@ -87,7 +87,7 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}"
      
-<img src="{{ "/assets/article_images/blocks-child.jpg" | relative_url }}" alt="Picture source: Pixabay">
+<img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}" alt="Picture source: George Willoughby">
                                                                                                                                             
 <p> Featured image source: <a href="https://pixabay.com/photos/crayons-coloring-book-coloring-hand-1445053/">Pixabay</a></p>
 
