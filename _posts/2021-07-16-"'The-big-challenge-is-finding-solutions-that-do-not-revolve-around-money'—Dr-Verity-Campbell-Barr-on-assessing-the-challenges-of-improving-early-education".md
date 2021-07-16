@@ -57,7 +57,7 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <p>Over the past 18 months, Covid-19 has forced settings to close, and homeworking became a staple of the new normal. Families with young children were faced with the responsibility of caring for their children during the day. The attendance in early years settings fluctuated.</p>
 
-<div class="flourish-embed data-height="80vh" flourish-chart" data-src="visualisation/6735014"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/6735014"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <p>The pandemic has caused great uncertainty, but the experiences of Covid-19 could prove to be a seminal point in time for the early years. </p>
 
