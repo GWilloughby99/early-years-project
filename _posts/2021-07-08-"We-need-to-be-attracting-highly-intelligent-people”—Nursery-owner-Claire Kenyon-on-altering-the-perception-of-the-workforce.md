@@ -44,7 +44,7 @@ image2: "/assets/article_images/child-blocks-mobile.jpg"
 
 <blockquote>“I have had children with me that have needed one-to-one care and we do not get the money to pay for them. Sometimes we pay for that ourselves which essentially means we take that child at a loss. I have done it in the past, but now I have to do a real financial assessment if we can afford to take the child. We have to pay an extra member of staff to do the care. It is a massive problem.”</blockquote>
 
-<p>An ominous problem in the sector, but can it be solved?</p>
+<p>But can it be solved?</p>
 
 <p>“The government needs to provide at least the minimum wage for the member of staff giving a SEND child one-to-one care. Somebody spending all day with a child needs to be paid for.”</p>
 
@@ -56,7 +56,7 @@ image2: "/assets/article_images/child-blocks-mobile.jpg"
 
 <blockquote>“There does seem to be a little bit more interest in early years, partly because of Kate Middleton. She could be a massive help to us because she spoke about the brain development of children in the first five years of their life which is hugely important.
 
-The brain development in babies is huge. I think society, in general, does not understand how this applies to the early years. I liked everything Kate Middleton wrote and she was bringing attention to something that someone has needed to for a long time. That is why I am hopeful.” </blockquote>
+The brain development in babies is huge. I think society, in general, does not understand how this applies to the early years. I liked everything Kate Middleton wrote and I am hopeful.” </blockquote>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ct5mLfktEF4?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
@@ -96,12 +96,16 @@ There needs to be more highly qualified and knowledgeable people working with yo
 
 <h3>Room for optimism?</h3>
 
-<p>For someone who has been in the sector for three decades, Claire has some space to feel hopeful. The work of the Duchess of Cambridge should raise awareness for early years and highlight the importance of brain development. Changing societal attitudes towards the sector will take time. But, the pandemic should have shown families with young children just how important early years provision is. </p>
+<p>For someone who has been in the sector for three decades, Claire has some space to feel hopeful. The work of the Duchess of Cambridge is likely to raise awareness for early years and highlight the importance of brain development. Changing societal attitudes towards the sector will take time. But, the pandemic should have shown families with young children just how important early years provision is. </p>
+  
+ <p>"This time I am hopeful. It seems like for the first time there is a little bit more interest in early years because of Kate Middleton. I think she could be a massive help and she is bringing attention to something that someone has needed to for a long time".</p>
   
  <hr>
  <p>📧 Want to stay in the loop of all things early years? Subscribe to my <a href="http://eepurl.com/ho9yUv">newsletter</a></p>
- <br>
-<p> Featured image source: <a href="https://pixabay.com/photos/child-tower-building-blocks-blocks-1864718/">Pixabay</a></p>
+  
+ <a href="http://eepurl.com/ho9yUv"> <img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}" alt="Picture source: George Willoughby"></a>
+
+ <p> Featured image source: <a href="https://pixabay.com/photos/child-tower-building-blocks-blocks-1864718/">Pixabay</a></p>
 
       
       
