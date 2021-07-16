@@ -54,9 +54,7 @@ image2: "/assets/article_images/child-blocks-mobile.jpg"
 
 <p>Cognitively, this is an important period of a child’s progression. Claire believes this shift in focus could be highly beneficial.</p>
 
-<blockquote>“There does seem to be a little bit more interest in early years, partly because of Kate Middleton. She could be a massive help to us because she spoke about the brain development of children in the first five years of their life which is hugely important.
-
-The brain development in babies is huge. I think society, in general, does not understand how this applies to the early years. I liked everything Kate Middleton wrote and I am hopeful.” </blockquote>
+<blockquote>“I liked everything Kate Middleton wrote. She could be a massive help to us because she spoke about the brain development of children in the first five years of their life which is hugely important. The brain development in babies is huge. I think society, in general, does not understand how this applies to the early years. I liked everything Kate Middleton wrote and I am hopeful.” </blockquote>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ct5mLfktEF4?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
