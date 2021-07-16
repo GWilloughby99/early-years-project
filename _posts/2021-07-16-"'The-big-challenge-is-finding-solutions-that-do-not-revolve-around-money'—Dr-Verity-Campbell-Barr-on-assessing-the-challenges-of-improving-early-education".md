@@ -9,7 +9,7 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 ---
 
 <html>
-  <p><b>"I feel like a broken record, but historical studies show that early childhood education and care offers value for money. I think it offers so much more value than those economic assessments could ever capture. However, it is a sector underfunded and providers are struggling".</p></b>
+  <p><b>"I feel like a broken record, but historical studies show that early childhood education and care offers value for money. I think it offers so much more value than those economic assessments could ever capture. However, it is a sector underfunded and providers are struggling".</b>
   
   <p><a href="https://www.plymouth.ac.uk/staff/verity-campbell-barr">Dr Verity Campbell-Barr</a> is the Associate Head for Research and Associate Professor in Early Childhood Studies at the University of Plymouth. Throughout her time in the sector, she has emphasized the supply and demand of early years provision. From her PhD to working for a local authority, the challenge was figuring out how settings can provide high-quality services and ensure the best possible outcomes for children</p>
   
