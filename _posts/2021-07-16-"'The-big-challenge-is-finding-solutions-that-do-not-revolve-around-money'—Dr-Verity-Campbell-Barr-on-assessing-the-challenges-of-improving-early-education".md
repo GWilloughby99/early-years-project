@@ -85,7 +85,7 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <p>📧 Want to stay in the loop of all things early years? Subscribe to my <a href="http://eepurl.com/ho9yUv">newsletter</a></p>
 
-<img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}" alt="Picture source: George Willoughby">
+<a href="http://eepurl.com/ho9yUv"> <img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}" alt="Picture source: George Willoughby">
                                                                                                                                             
 <p> Featured image source: <a href="https://pixabay.com/photos/crayons-coloring-book-coloring-hand-1445053/">Pixabay</a></p>
 
