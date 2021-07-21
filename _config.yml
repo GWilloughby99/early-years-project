@@ -17,7 +17,7 @@ float_logo: true # true, false (default)
 cover: "/assets/images/playground.jpg"
 
 name: 'George Willoughby'
-author: 'GWJournalism'
+author: 'George Willoughby'
 author_image: "/assets/images/profile.png"
 
 paginate:	5
@@ -45,8 +45,6 @@ social:
   - icon: instagram
     url:  https://www.instagram.com/gwjournalism/
     desc: Follow me on Instagram
-
-
 
   - icon:	github
     url:	https://github.com/GWilloughby99
