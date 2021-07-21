@@ -48,7 +48,7 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <p>To raise the profile of the profession, society could benefit from gaining a better understanding of the training and requirements. Currently, “there is almost a sense of well, anyone can look after children,” says Verity.</p>
 
-<blockquote>Professional status is a challenge. It is a hugely complex professional role with so many different layers. You have to know about child development, and then put it into practice which is very difficult because you have to tune in with the children. It is not a case of taking child development and pour onto children.</blockquote>
+<blockquote>"Professional status is a challenge. It is a hugely complex professional role with so many different layers. You have to know about child development, and then put it into practice which is very difficult because you have to tune in with the children. It is not a case of taking child development and pour onto children.</blockquote>
 
 <blockquote>“So many different areas coincide into one job. You have to learn about psychology, sociology, social policy and how to work with families. However, this is not recognised in society. I hope there is a new-found recognition for people that work with children.”</blockquote>
 
