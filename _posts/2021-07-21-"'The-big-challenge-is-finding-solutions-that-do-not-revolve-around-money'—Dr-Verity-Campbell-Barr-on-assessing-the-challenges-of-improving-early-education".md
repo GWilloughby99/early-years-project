@@ -42,7 +42,9 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <p>She said: “Nothing is going straight to the provider. Why do they not get the money directly? It does seem like a strange process. There are issues with how the funding is allocated, and I do not think we have done a proper economic assessment to see what the costs are.” </p>
   
- <img src="{{"/assets/article_images/pens.jpg" | reltive_url }}" alt="Picture source: Pixabay">
+<img src="{{ "/assets/article_images/pens.jpg" | relative_url }}" alt="Picture source: Pixabay">
+
+<img src="{{ "/assets/article_images/pens.jpg" | relative_url }}" alt="Picture source: Pixabay">
 
 <h3> Seeking professional status </h3>
 
