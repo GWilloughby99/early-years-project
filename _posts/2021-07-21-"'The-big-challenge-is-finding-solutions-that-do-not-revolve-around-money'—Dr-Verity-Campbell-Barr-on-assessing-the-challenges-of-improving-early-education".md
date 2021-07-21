@@ -44,8 +44,6 @@ image2: "/assets/article_images/mobile-crayons.jpg"
   
 <img src="{{ "/assets/article_images/pens.jpg" | relative_url }}" alt="Picture source: Pixabay">
 
-<img src="{{ "/assets/article_images/pens.jpg" | relative_url }}" alt="Picture source: Pixabay">
-
 <h3> Seeking professional status </h3>
 
 <p>Early years researcher and nursery owner Claire Kenyon strongly believes that the <a href="https://gwilloughby99.github.io/early-years-project/2021/07/08/We-need-to-be-attracting-highly-intelligent-people-A-focus-and-solution-to-changing-the-perception-of-early-years-staff.html">perception of the workforce needs to be altered</a>. This was an area that Dr Campbell-Barr also supported.</p>
