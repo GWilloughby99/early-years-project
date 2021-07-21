@@ -44,7 +44,7 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <h3> Seeking professional status </h3>
 
-<p>Early years researcher and nursery owner Claire Kenyon strongly believes that the <a href="https://gwilloughby99.github.io/early-years-project/2021/07/08/We-need-to-be-attracting-highly-intelligent-people-A-focus-and-solution-to-changing-the-perception-of-early-years-staff.html">perception of the workforce needs to be altered</a>. This was an area that Verity also supported.</p>
+<p>Early years researcher and nursery owner Claire Kenyon strongly believes that the <a href="https://gwilloughby99.github.io/early-years-project/2021/07/08/We-need-to-be-attracting-highly-intelligent-people-Nursery-owner-Claire-Kenyon-on-altering-the-perception-of-the-workforce.html">perception of the workforce needs to be altered</a>. This was an area that Verity also supported.</p>
 
 <p>To raise the profile of the profession, society could benefit from gaining a better understanding of the training and requirements. Currently, “there is almost a sense of well, anyone can look after children,” says Verity.</p>
 
