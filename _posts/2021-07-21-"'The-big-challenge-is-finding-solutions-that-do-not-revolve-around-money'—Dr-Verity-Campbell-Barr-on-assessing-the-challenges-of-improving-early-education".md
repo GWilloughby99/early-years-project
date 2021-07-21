@@ -81,6 +81,8 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 <p>Stressing how much training and education goes towards working in early years. That is an idea Verity would like to see become a reality. She believes that staff are not recognised as professionals.  A solution to the misconception of what working in the early years entails is to raise awareness.</p>
 
 <blockquote>“We need to highlight the complexity of the role, particularly the sheer range of knowledge you are expected to have to work with children. I think this is a key thing because caring and nurturing contain important professional values”.</blockquote>
+  
+  <hr>
 
 <p>📧 Want to stay in the loop of all things early years? Subscribe to my <a href="http://eepurl.com/ho9yUv">newsletter</a></p>
 
