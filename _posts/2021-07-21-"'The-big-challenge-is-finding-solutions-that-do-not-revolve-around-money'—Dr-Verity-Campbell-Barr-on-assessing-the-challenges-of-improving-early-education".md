@@ -9,20 +9,20 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 ---
 
 <html>
-  <p><b>"I feel like a broken record, but historical studies show that early childhood education and care offers value for money. I think it offers so much more value than those economic assessments could ever capture. However, it is a sector underfunded and providers are struggling".</b>
+  <p><b>"I feel like a broken record, but historical studies show that early childhood education and care offers value for money. I think it offers so much more value than those economic assessments could ever capture. However, it is a sector underfunded and providers are struggling."</b>
   
   <p><a href="https://www.plymouth.ac.uk/staff/verity-campbell-barr">Dr Verity Campbell-Barr</a> is the Associate Head for Research and Associate Professor in Early Childhood Studies at the University of Plymouth. Throughout her time in the sector, she has emphasized the supply and demand of early years provision. From her PhD to working for a local authority, the challenge was figuring out how settings can provide high-quality services and ensure the best possible outcomes for children</p>
   
   <h3> Balancing care and affordability </h3>
   <p>Financially, pre-schools and nurseries have been <a href="https://www.bbc.co.uk/news/uk-wales-55665962">impated by the pandemic</a>. But, as recent revelations show, <a href="https://www.theguardian.com/education/2021/jun/15/ministers-knowingly-underfunding-childcare-sector-england">monetary constraints on the sector</a> have already been an issue for a long time. Supplying effective early education for children requires funding and highly qualified staff. Yet, the level of funding is leaving “settings with a balancing act”, says Verity.</p>
   
-  <blockquote>“At the core of what providers are doing is working with families and they do not want to charge them extortionate rates. How do you do that caring side of the job while at the same time make your setting financially viable? We have seen a massive drop in funding and the <a href="https://connectpa.co.uk/party-parliamentary-group-childcare-early-education/">APPG</a> highlighted this and whether the rates are covering costs". </blockquote>
+  <blockquote>“At the core of what providers are doing is working with families and they do not want to charge them extortionate rates. How do you do that caring side of the job while at the same time make your setting financially viable? We have seen a massive drop in funding and the <a href="https://connectpa.co.uk/party-parliamentary-group-childcare-early-education/">APPG</a> highlighted this and whether the rates are covering costs." </blockquote>
   
   <p>The All Party Parliamentary Group for Childcare and Early Education (APPG) brings together members of parliament representatives from the early years sector. Recently, the group discussed funding and talked in length about why the <a href="https://connectpa.co.uk/wp-content/uploads/2019/07/Steps-to-sustainability-report.pdf">current system is problematic</a>. This includesissues with staff retention, funding gaps and business rates.</p>
   
   <p>Although, do solutions lie where money is not the focal point?</p>
   
-  <blockquote>“The big challenge is finding solutions that do not revolve around money. We need to think about how else we might go about changing things without impacting quality”. </blockquote>
+  <blockquote>“The big challenge is finding solutions that do not revolve around money. We need to think about how else we might go about changing things without impacting quality.” </blockquote>
   
   <img src="{{ "/assets/article_images/blocks-child.jpg" | relative_url }}" alt="Picture source: Pixabay">
   
@@ -50,9 +50,9 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <p>To raise the profile of the profession, society could benefit from gaining a better understanding of the training and requirements. Currently, “there is almost a sense of well, anyone can look after children,” says Verity.</p>
 
-<blockquote>Professional status is a challenge. It is a hugely complex professional role with so many different layers. You have to know about child development, and then put it into practice which is very difficult because you have to tune in with the children. It is not a case of taking child development and pour onto. children</blockquote>
+<blockquote>Professional status is a challenge. It is a hugely complex professional role with so many different layers. You have to know about child development, and then put it into practice which is very difficult because you have to tune in with the children. It is not a case of taking child development and pour onto children.</blockquote>
 
-<blockquote>“So many different areas coincide into one job. You have to learn about psychology, sociology, social policy and how to work with families. However, this is not recognised in society. I hope there is a new-found recognition for people that work with children”.</blockquote>
+<blockquote>“So many different areas coincide into one job. You have to learn about psychology, sociology, social policy and how to work with families. However, this is not recognised in society. I hope there is a new-found recognition for people that work with children.”</blockquote>
 
 <h3> The pandemic and recognising the importance of early years </h3>
 
@@ -64,7 +64,7 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <p>"There is an opportunity to have a shift where society thinks about what they value," says Verity.</p>
 
-<blockquote>"We need to re-assess what it is we value around education from the earliest years all the way through. Hopefully, because of what has happened, people are valuing childminders and pre-school teachers so much more”.</blockquote>
+<blockquote>"We need to re-assess what it is we value around education from the earliest years all the way through. Hopefully, because of what has happened, people are valuing childminders and pre-school teachers so much more.”</blockquote>
   
 <h3> Changing the model </h3>
 
@@ -76,13 +76,13 @@ image2: "/assets/article_images/mobile-crayons.jpg"
 
 <blockquote>“The problem is that if we adopt a community model where anybody can come in and work, we go back to the idea that anyone can do childcare. You would need to strike that balance.</blockquote>
 
-<blockquote>“In other countries, there is a maintained service, like our schools. This would be one model to move to and make all pre-school state-owned. Although, it does not necessarily stop the issues around making sure we have enough money to do the job we need to do”.</blockquote>
+<blockquote>“In other countries, there is a maintained service, like our schools. This would be one model to move to and make all pre-school state-owned. Although, it does not necessarily stop the issues around making sure we have enough money to do the job we need to do.”</blockquote>
 
 <h3> Understanding what an early year professional is </h3>
 
 <p>Stressing how much training and education goes towards working in early years. That is an idea Verity would like to see become a reality. She believes that staff are not recognised as professionals.  A solution to the misconception of what working in the early years entails is to raise awareness.</p>
 
-<blockquote>“We need to highlight the complexity of the role, particularly the sheer range of knowledge you are expected to have to work with children. I think this is a key thing because caring and nurturing contain important professional values”.</blockquote>
+<blockquote>“We need to highlight the complexity of the role, particularly the sheer range of knowledge you are expected to have to work with children. I think this is a key thing because caring and nurturing contain important professional values.”</blockquote>
   
   <hr>
 
