@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Early years childcare"
+title: "Early years education"
 description: > # this means to ignore newlines until "email:"
-   A major project looking at the sustainability of childcare provision in the UK
+   A major project looking at the sustainability of early childhood provision in the UK
 
 email: gwjournalism@googlemail.com
 #blog logo
