@@ -13,6 +13,8 @@ image2: "/assets/article_images/mobile-loop.jpg"
   <p><a href="https://epi.org.uk/team/sara-bonetti/">Dr Sara Bonetti</a> is the Director of Early Years at the <a href="https://epi.org.uk/">Education Policy Institute</a>. Her work focuses on early education, particularly workforce issues. More recently, Sara has been taking a closer look into the <a href="https://epi.org.uk/publications-and-research/a-comparison-of-school-institutions-and-policies-across-the-uk/">funding gap in the sector</a>. We spoke about why there is a lack of incentive for early years professionals to stay in the industry and how the funding system could be reviewed.</p>
 
   <h3> Changing funding streams to combat inefficiency </h3>
+  
+  <img src="{{ "/assets/article_images/blocks-child.jpg" | relative_url }}" alt="Picture source: Pixabay">
 
   <p> At the moment, early years settings receive money from the government through the <a href="https://www.gov.uk/government/publications/early-years-national-funding-formula-allocations-and-guidance">early years national funding formula</a>. Local authorities are supposed to <a href="https://www.gov.uk/government/publications/early-years-funding-2021-2022">pass through the equivalent of 95%</a> of the funding they receive to providers. </p>
 
