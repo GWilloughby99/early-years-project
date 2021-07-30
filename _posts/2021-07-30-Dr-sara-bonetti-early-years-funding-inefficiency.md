@@ -13,8 +13,6 @@ image2: "/assets/article_images/mobile-loop.jpg"
   <p><a href="https://epi.org.uk/team/sara-bonetti/">Dr Sara Bonetti</a> is the Director of Early Years at the <a href="https://epi.org.uk/">Education Policy Institute</a>. Her work focuses on early education, particularly workforce issues. More recently, Sara has been taking a closer look into the <a href="https://epi.org.uk/publications-and-research/a-comparison-of-school-institutions-and-policies-across-the-uk/">funding gap in the sector</a>. We spoke about why there is a lack of incentive for early years professionals to stay in the industry and how the funding system could be reviewed.</p>
 
   <h3> Changing funding streams to combat inefficiency </h3>
-  
-  <img src="{{ "/assets/article_images/blocks-child.jpg" | relative_url }}" alt="Picture source: Pixabay">
 
   <p> At the moment, early years settings receive money from the government through the <a href="https://www.gov.uk/government/publications/early-years-national-funding-formula-allocations-and-guidance">early years national funding formula</a>. Local authorities are supposed to <a href="https://www.gov.uk/government/publications/early-years-funding-2021-2022">pass through the equivalent of 95%</a> of the funding they receive to providers. </p>
 
@@ -44,7 +42,7 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <blockquote>“Another challenge is that we have a mixed market system. So private, voluntary independent sectors and childminders alongside maintained or school-based providers. In the school-based settings, there is higher pay and more security. So the problem is double. In general, low pay, and those who want to upskill exit the voluntary sector and work in a school-based provider.” </blockquote>
   
-  <img src="{{"/assets/article_images/play-blocks-building.jpg" | Relative_url}}" alt="Picture source: Pixabay">
+  <img src="{{"/assets/article_images/play-blocks-building.jpg" | relative_url}}" alt="Picture source: Pixabay">
 
   <h3> The impact of Covid on reception and development </h3>
 
@@ -62,7 +60,7 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <blockquote>“Testing and assessments are very different for the early years. It is hard to quantify missed learning. It is something that we need to monitor. The general agreement is that the social and emotional aspects of development are key things to keep an eye on.”</blockquote>
   
-  <img src="{{"/assets/article_images/fluctuations-bonetti.png" | Relative_url}}" alt="Quote from Sara. Graphic by George Willoughby">
+  <img src="{{"/assets/article_images/fluctuations-bonetti.png" | relative_url}}" alt="Quote from Sara. Graphic by George Willoughby">
 
   <h3>Responsibility for bridging the gap between early years and school education</h3>
 
