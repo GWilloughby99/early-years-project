@@ -59,7 +59,7 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <blockquote>“Testing and assessments are very different for the early years. It is hard to quantify missed learning. It is something that we need to monitor. The general agreement is that the social and emotional aspects of development are key things to keep an eye on.”</blockquote>
   
-  <img src="{{/assets/article_images/fluctuations-bonetti.png | Realtive_url}}" alt="Quote from Sara. Graphic by George Willoughby"
+  <img src="{{/assets/article_images/fluctuations-bonetti.png" | Realtive_url}}" alt="Quote from Sara. Graphic by George Willoughby"
 
   <h3>Responsibility for bridging the gap between early years and school education</h3>
 
