@@ -40,8 +40,9 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <p>She said: “There are multiple elements at play. On one side, there is the issue of low pay, especially relating to the responsibility of caring for a child. Something thing to make clear is that managers of settings want to pay their staff a higher wage. But, it is a case of they cannot afford to pay them a higher salary.</p>
 
-
   <blockquote>“Another challenge is that we have a mixed market system. So private, voluntary independent sectors and childminders alongside maintained or school-based providers. In the school-based settings, there is higher pay and more security. So the problem is double. In general, low pay, and those who want to upskill exit the voluntary sector and work in a school-based provider.” </blockquote>
+  
+  <img src="{{"/assets/article_images/play-blocks-building.jpg" | Relative_url}}" alt="Picture source: Pixabay"
 
   <h3> The impact of Covid on reception and development </h3>
 
@@ -59,7 +60,7 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <blockquote>“Testing and assessments are very different for the early years. It is hard to quantify missed learning. It is something that we need to monitor. The general agreement is that the social and emotional aspects of development are key things to keep an eye on.”</blockquote>
   
-  <img src="{{"/assets/article_images/fluctuations-bonetti.png" | Realtive_url}}" alt="Quote from Sara. Graphic by George Willoughby"
+  <img src="{{"/assets/article_images/fluctuations-bonetti.png" | Relative_url}}" alt="Quote from Sara. Graphic by George Willoughby"
 
   <h3>Responsibility for bridging the gap between early years and school education</h3>
 
