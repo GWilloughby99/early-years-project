@@ -32,7 +32,7 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <blockquote>“But there are authorities doing an amazing job and go way beyond their duty with less money. I do not think the solution to inefficiency is to scrap the involvement of local authorities. A single setting does not represent the whole area.”</blockquote>
   
-  <img src="{{"/assets/article_images/alphabet-blocks.jpg" | relative_url}}" alt="Picture source: <a href="https://unsplash.com/@gautamarora1991">Gautam Arora</a> via Unslapsh ">
+  <img src="{{"/assets/article_images/alphabet-blocks.jpg" | relative_url}}" alt="Picture source: Gautam Arora via Unslapsh">
 
   <h3> Incentive to stay in the sector </h3>
 
