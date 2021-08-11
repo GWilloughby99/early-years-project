@@ -24,7 +24,7 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <blockquote>“If we were able to streamline the current funding streams, we would not necessarily need much more money. A lot of funding is returned or goes unspent so, it is a matter of restructuring. I think the other inefficiency comes from setting an hourly rate. We could make entitlement that is per year, rather than per child per hour. Even if it was the same amount of money, you could plan for the entire year.” </blockquote>
   
-  <img src="{{"/assets/article_images/alphabet-blocks.jpg" | relative_url}}" alt="Picture source: Gautam Arora via Unslapsh">
+  <img src="{{"/assets/article_images/alphabet-blocks.jpg" | relative_url}}" alt="Picture source: Gautam Arora via Unsplash">
 
   <p>However, even with the aforementioned inefficiencies, Sara believes that the settings should continue to receive funding through public providers. This is instead of settings getting the funding directly from the government.</p>
 
