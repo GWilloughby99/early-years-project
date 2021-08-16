@@ -117,7 +117,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
         <p>Over a year, a child that attends a setting one day a week could miss out on an extra <b>£500</b> towards their education.<a href="#story/954994/slide-1"></a></p>
 
-        <p>If a child attends more days during the week, the figure increases. Two days a week increases the amount to over <b>£1,000</b> a year. <a href="#story/954994/slide-2"></a></p>
+        <p>If a child attends more days during the week, the figure rises. Two days a week increases the amount to over <b>£1,000</b> a year. <a href="#story/954994/slide-2"></a></p>
 
         <p>The figure for a child in a setting three days a week is <b>£1,525.</b><a href="#story/954994/slide-3"></a></p>
 
@@ -183,4 +183,4 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
             }
           });
         </script>
-        </html>
+       
