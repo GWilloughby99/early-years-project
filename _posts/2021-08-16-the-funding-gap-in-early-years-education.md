@@ -135,7 +135,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
           <h1> Regional variation in the national funding formula </h1>
 <br>
-        <p> The current system is structured so that money from the government goes through authorities and not to the early year's settings directly. How much financial support an authority can provide is dependent on the rate they receive through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. The lowest amount an authority can receive is <b>£4.44</p> per hour. </p>
+        <p> The current system is structured so that money from the government goes through authorities and not to the early year's settings directly. How much financial support an authority can provide is dependent on the rate they receive through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. The lowest amount an authority can receive is <b>£4.44</p> per hour.
 
         <p> The latest figures show that regions outside of London are more likely to receive the lowest hourly rate through the national funding formula. <a href="https://www.gov.uk/government/publications/guide-to-national-funding-formula/guide-to-national-funding-formula">Funding is calculated</a> based on the attendance at the setting in the previous October school census and pupil characteristics. Every child gets a base rate and further funding is for children with additional needs. Local authorities set the rate they give to providers. Yet, this is influenced by how much they get from the government. </p>
   
