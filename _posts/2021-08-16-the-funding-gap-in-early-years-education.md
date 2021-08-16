@@ -80,6 +80,8 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         <p>Across <b>51 weeks</b>, providers could receive even greater levels of funding. <a href="#story/950720/slide-4"></a></p>
 
         <p>Nationally, the average yearly amount a setting could receive if the 95% pass-through was scrapped is <b>£383</b> for a <b>51-week</b> year. <a href="#story/950720/slide-5"></a></p>
+        
+        <br>
 
         <p>Dr Verity Campbell-Barr, Associate Early Years professor at the University of Plymouth, believes the pass-through scheme could create a perception that settings are not trusted with the funding they receive.</p>
 
