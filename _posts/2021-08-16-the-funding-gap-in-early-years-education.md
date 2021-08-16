@@ -75,11 +75,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
         <p>For <b>one child</b> across a <b>38-week</b> year in the Inner London region, on average, they would be entitled to a further <b>£334</b> to go towards their education. <a href="#story/950720/slide-2"></a></p>
 
-        <p>The first figure was for a 38-week year. This will not be the same for all pre-school and nurseries as some might be open for <b>51-weeks</b>. <a href="#story/950720/slide-3"></a></p>
-
-        <p>Across <b>51 weeks</b>, providers could receive even greater levels of funding. <a href="#story/950720/slide-4"></a></p>
-
-        <p>Nationally, the average yearly amount a setting could receive if the 95% pass-through was scrapped is <b>£383</b> for a <b>51-week</b> year. <a href="#story/950720/slide-5"></a></p>
+        <p>Nationally, the average yearly amount a setting could receive if the 95% pass-through was scrapped is <b>£285</b> for a <b>38-week</b> year. <a href="#story/950720/slide-3"></a></p>
         
         <br>
 
@@ -127,7 +123,6 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
         <p>The EPI pilot study was limited to 200 settings. But, it could indicate the current funding levels are not covering the cost of providing children with early education.<a href="#story/954994/slide-6"></a></p>
 
-        <p>Some settings might also be open for 51 weeks in the year. The potential missed funding is even more substantial. <a href="#story/954994/slide-7"></a></p>
 <br>
         <p><b>STATEMENT FROM THE DEPARTMENT FOR EDUCATION HERE </b></p>
 
