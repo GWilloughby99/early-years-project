@@ -109,7 +109,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
 
 <br>
-        <div class="flourish-embed" data-height="80vh" data-src="story/954994" data-url="https://flo.uri.sh/story/954994/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+        <div class="flourish-embed" data-height="70vh" data-src="story/954994" data-url="https://flo.uri.sh/story/954994/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
         <p>Using the <b>£2.65</b> difference the funding shortfall can be calculated. Excluding holiday club and bank holidays, a year is 38 weeks. The hours in a day is for a child attending a setting from 9-3 (six hours).<a href="#story/954994/slide-1"></a></p>
 
