@@ -128,7 +128,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         <p>The EPI pilot study was limited to 200 settings. But, it could indicate the current funding levels are not covering the cost of providing children with early education.<a href="#story/954994/slide-6"></a></p>
 
         <p>Some settings might also be open for 51 weeks in the year. The potential missed funding is even more substantial. <a href="#story/954994/slide-7"></a></p>
-
+<br>
         <p><b>STATEMENT FROM THE DEPARTMENT FOR EDUCATION HERE </b></p>
 
 
