@@ -8,7 +8,7 @@ image: "/assets/article_images/jenga-blocks.jpg"
 image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 ---
 <html lang="en-GB">
-  <p style="font-size: 18px;">Data analysis of current policies and research into free entitlement shows just how much money early years providers could be missing out on every year. The 15 to 30 hours of free education requires the correct level of funding for settings to be sustainable and provide the best possible start in life for children. </p>
+  <p style="font-size: 18px;"><b>Data analysis of current policies and research into free entitlement shows just how much money early years providers could be missing out on every year. The 15 to 30 hours of free education requires the correct level of funding for settings to be sustainable and provide the best possible start in life for children</b>. </p>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
