@@ -8,6 +8,7 @@ image: "/assets/article_images/jenga-blocks.jpg"
 image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 ---
 <html lang="en-GB">
+  <p>Data analysis of current policies and research into free entitlement potentially shows just how much money early years providers could be missing out on every year.</p>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
