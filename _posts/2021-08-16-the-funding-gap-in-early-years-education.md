@@ -33,7 +33,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
     <body>
       <article>
-        <h1 style="font-size:40px;">Understanding free entitlement concerns</h1>
+        <h1>Understanding free entitlement concerns</h1>
         <p>Free entitlement is a certain number of hours offered to parents to care for their children. To fund their education, the government sets a funding rate through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. The money is given to local authorities and then passed onto early years settings.</p>
 
         <p>Recently, a spending review was rejected by the government after a <a href="https://petition.parliament.uk/petitions/586700">petition that received over <b>100,000</b> signatures</a>. The Early Years Alliance (EYA) also <a href="https://www.eyalliance.org.uk/freedom-information-investigation-findings">won a Freedom of Information (FOI) dispute</a> with the Department for Education. Their findings revealed the early years sector is <a href="https://www.theguardian.com/education/2021/jun/15/ministers-knowingly-underfunding-childcare-sector-england">underfunded</a>. </p>
