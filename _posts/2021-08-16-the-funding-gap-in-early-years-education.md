@@ -161,17 +161,6 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
 
 
-
-        <!-- <p> Deprivation funding is commonly based on the <a href="https://lginform.local.gov.uk/reports/lgastandard?mod-metric=3910&mod-area=E92000001&mod-group=AllRegions_England&mod-type=namedComparisonGroup">Income deprivation affecting children index</a>. This uses postcodes so if a child it one of those recognised postcodes, they would be eligible. The same applies for disability and SEN funds. Children without additional needs will not be entitled to the higher levels of funding. </p> -->
-
-        <!-- <h1> Less dependent on supplementary factors </h1> -->
-
-        <!-- <p> Freedom of information requests (FOIs) to local education authorities show the rate of funding given to providers. The requests acquired the base entitlement rate for three and four-year-olds and other additional factors that make up overall funding. The data acquired is for three and four-year-olds attending pre-school or nurseries. <p> -->
-
-
-
-        <!-- </div> -->
-
               <script>
               initFlourishScrolly({
           trigger_point: "25%",
