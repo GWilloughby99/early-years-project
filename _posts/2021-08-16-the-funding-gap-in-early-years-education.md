@@ -7,7 +7,6 @@ tags: education funding early years
 image: "/assets/article_images/jenga-blocks.jpg"
 image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 ---
-<html>
 <html lang="en-GB">
   <head>
     <meta charset="UTF-8">
@@ -181,3 +180,4 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
             }
           });
         </script>
+        </html>
