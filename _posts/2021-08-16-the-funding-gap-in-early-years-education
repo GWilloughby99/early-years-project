@@ -8,7 +8,7 @@ image: "/assets/article_images/jenga-blocks.jpg"
 image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 ---
 <html lang="en-GB">
-  <p style="font-size: 24px;"><b>Data analysis of current policies and research into free entitlement shows just how much money early years providers could be missing out on every year. The 15 to 30 hours of free education requires the correct level of funding for settings to be sustainable and provide the best possible start in life for children</b>. </p>
+  <p style="font-size: 24px;"><b>Data analysis of current policies and research into free entitlement shows how much money early years providers could be missing out on every year. To be sustainable, free early education requires the correct level of funding for settings to provide the best possible start in life for children</b>. </p>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,17 +36,17 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         <h1>Understanding free entitlement concerns</h1>
         <p>Free entitlement is a certain number of hours offered to parents to care for their children. To fund their education, the government sets a funding rate through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. The money is given to local authorities and then passed onto early years settings.</p>
 
-        <p>Recently, a spending review was rejected by the government after a <a href="https://petition.parliament.uk/petitions/586700">petition that received over <b>100,000</b> signatures</a>. The Early Years Alliance (EYA) also <a href="https://www.eyalliance.org.uk/freedom-information-investigation-findings">won a Freedom of Information (FOI) dispute</a> with the Department for Education. Their findings revealed the early years sector is <a href="https://www.theguardian.com/education/2021/jun/15/ministers-knowingly-underfunding-childcare-sector-england">underfunded</a>. </p>
+        <p>The system has been criticised and despite a <a href="https://petition.parliament.uk/petitions/586700">petition that received over <b>100,000</b> signatures</a>, a spending review was rejected by the government. The Early Years Alliance (EYA) also <a href="https://www.eyalliance.org.uk/freedom-information-investigation-findings">won a Freedom of Information (FOI) dispute</a> with the Department for Education. Their findings revealed the early years sector is <a href="https://www.theguardian.com/education/2021/jun/15/ministers-knowingly-underfunding-childcare-sector-england">underfunded</a>. </p>
 
         <p>Despite the FOI findings and public support for a review, the current funding rates will continue. Children and early years providers could be missing out on thousands of pounds. The monetary shortfall can be calculated through the funding system and using research from the <a href="https://epi.org.uk/research-area/early-years-development/">Education Policy Institute</a>.</p>
 
         <h1> The pass-through rate </h1>
 <br>
-        <p>Settings need to receive a sufficient sum of funding to pay their staff. As well, achieve high-quality outcomes for children and be sustainable. To ensure providers stay financially viable, the government introduced a <b>95% pass-through</b> rate. Councils must give providers an equivalent of 95% of the free entitlement funding.</p>
+        <p>Settings need to receive a sufficient sum of funding to pay their staff. As well, to achieve high-quality outcomes for children and be sustainable. To ensure providers stay financially viable, the government introduced a <b>95% pass-through</b> rate. Councils must give providers an equivalent of 95% of the free entitlement funding.</p>
 
         <p>The introduction of the pass-through rate was to stop councils underspending. Occasionally, some councils might justify being below the threshold because they support providers in other ways. For example, helping to fund extra training or provide guidance on safeguarding issues. But, this is not the case across all areas.</p>
 
-        <iframe title="The hourly free entitlement funding rate for three and four-year-olds" aria-label="Range Plot" id="datawrapper-chart-5klTw" src="https://datawrapper.dwcdn.net/5klTw/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="435"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+        <iframe title="The hourly free entitlement funding rate for three and four-year-olds" aria-label="Range Plot" id="datawrapper-chart-5klTw" src="https://datawrapper.dwcdn.net/5klTw/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="435"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
@@ -58,7 +58,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
         <p>A difference of 0.20p per hour could lead to better outcomes for children. For each region in England, the upcoming charts show how much money settings miss out on due to the pass-through threshold. </p>
 
-        <p>The figures were calculated using the <a href="https://www.gov.uk/government/publications/early-years-funding-2021-2022">average funding rate given to authorities</a> and what the 95% pass-through requirement would be. The difference was then calculated across a 38 week year with a six-hour working day from 9-3. The yearly amount is not representative of all local authorities because some are above or below the pass-through rate. </p>
+        <p>The figures were calculated using the <a href="https://www.gov.uk/government/publications/early-years-funding-2021-2022">average funding rate given to authorities</a> and what the 95% pass-through requirement would be. The difference was then calculated across a 38 week year with a six-hour working day from 9am to 3pm. The yearly amount is not representative of all local authorities because some are above or below the pass-through rate. </p>
 
 
 
@@ -135,17 +135,15 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
           <h1> Regional variation in the national funding formula </h1>
 <br>
-        <p> The current system is structured so that money from the government goes through authorities and not to the early year's settings directly. Local authorities can be below the 95% pass-through rate only by reaching an equivalent amount. This can be through deprivation, quality and flexibility supplements. Also disability and Special Educational Needs (SEN) inclusion funds. How much additional support an authority can provide is also dependent on the rate they receive through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. </p>
+        <p> The current system is structured so that money from the government goes through authorities and not to the early year's settings directly. How much financial support an authority can provide is dependent on the rate they receive through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. The lowest amount an authority can receive is <b>£4.44</p> per hour. </p>
 
-        <p> The latest figures show that some regions receive a lower rate per hour in the funding formula. <a href="https://www.gov.uk/government/publications/guide-to-national-funding-formula/guide-to-national-funding-formula">Funding is calculated</a> based on the attendance at the setting in the previous October school census and pupil characteristics. Every child gets a base rate and further funding is for children with additional needs. Local authorities set the rate they give to providers. Yet, this is influenced by how much they get from the government. </p>
-
-        <p> Regions outside of London are more likely to receive the lowest hourly rate through the national funding formula. </p>
-
+        <p> The latest figures show that regions outside of London are more likely to receive the lowest hourly rate through the national funding formula. <a href="https://www.gov.uk/government/publications/guide-to-national-funding-formula/guide-to-national-funding-formula">Funding is calculated</a> based on the attendance at the setting in the previous October school census and pupil characteristics. Every child gets a base rate and further funding is for children with additional needs. Local authorities set the rate they give to providers. Yet, this is influenced by how much they get from the government. </p>
+  
         <iframe title="Authorities outside of London are more likely to receive the minimum hourly rate of entitlement for three-and-four-year-olds" aria-label="Bar Chart" id="datawrapper-chart-zEi1j" src="https://datawrapper.dwcdn.net/zEi1j/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="686"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 <br>
 <br>
-        <p>Lancashire is one of 10 local authorities in the North West that receives the lowest rate of funding. The authority gets <b>£4.44</b> per hour for free and four-year-old children. This is just <b>over 50p</b> an hour less than the average across all other authorities. Yet, Lancashire has a pass-through rate of <b>98%</b> which, is above what is required.</p>
+        <p>Lancashire is one of 10 local authorities in the North West that receives the lowest rate of funding. The authority gets <b>£4.44</b> per hour for free and four-year-old children. This is just <b>over 50p</b> an hour less than the average across all other authorities. Yet, Lancashire has a pass-through rate of <b>98%</b> which is above what is required.</p>
 
         <p><b>County Councillor Jayne Rear, cabinet member for education and skills</b>, said:</p>
 
