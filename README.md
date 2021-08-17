@@ -42,7 +42,7 @@ The project provided an opportunity to incorporate data journalism. This include
 
 **Weekly reporting of Covid-19 cases in the early years**
 
-<img src="/assets/misc/cases-early-years.png" alt="Weekly Covid-19 notifications in early years settings" style="width:600px" style="height:500px">
+<img src="/assets/misc/latest-cases.png" alt="Weekly Covid-19 notifications in early years settings" style="width:600px">
 
 **Tracking attendance in early years providers**
 
