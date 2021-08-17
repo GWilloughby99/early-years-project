@@ -8,8 +8,8 @@ To view the project, [click here for interview features and data analysis](https
 
 This project set out with the following hypotheses:
 - Free entitlement funding is not at the required levels and early years settings are faced with financial difficulties.
-- Settings make difficult economic assessments when deciding to take in a child with additonal needs because of cost pressures.
-- There is some regional variation on free entitlement rates with more regions outside of London receiving the lowest rate of hourly funding for three and four-year-old children.
+- Settings make difficult economic assessments when deciding to take in a child with additional needs because of cost pressures.
+- There is some regional variation in free entitlement rates with regions outside of London receiving the lowest rate of hourly funding for three and four-year-old children.
 - Some authorities are below the 95% pass-through which was intended to stop councils underspending their early year's budget.
 
 ## Possible solutions devised by industry experts ##
