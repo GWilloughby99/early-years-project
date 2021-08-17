@@ -60,9 +60,6 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
         <p>The figures were calculated using the <a href="https://www.gov.uk/government/publications/early-years-funding-2021-2022">average funding rate given to authorities</a> and what the 95% pass-through requirement would be. The difference was then calculated across a 38 week year with a six-hour working day from 9am to 3pm. The yearly amount is not representative of all local authorities because some are above or below the pass-through rate. </p>
 
-
-
-
         <!-- <div id=”my-wrapper”> -->
 
         <div class="flourish-embed" data-height="80vh" data-src="story/950720" data-url="https://flo.uri.sh/story/950720/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -89,7 +86,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         
         <p>Explaining the pass-through rate, the Department for Education said: </p>
 
-        <p>Councils are responsible for setting the local funding rates for providers, following consultation with childcare providers in their area, and are required to pass on at least 95% of the funding they receive for the free entitlements directly to providers. Any council that had concerns around meeting these requirements apply to the department for increased flexibility.</p>
+        <p>Councils are responsible for setting the local funding rates for providers, following consultation with childcare providers in their area, and are required to pass on at least 95% of the funding they receive for the free entitlements directly to providers. Any council that had concerns around meeting these requirements apply to the department for increased flexibility. Councils are able to hold back up to 5% of the funding as central spend, which some have used towards a range of costs including staffing or admin costs, or SEND support services.</p>
 
         <h1> The funding required to cover early education </h1>
 <br>
