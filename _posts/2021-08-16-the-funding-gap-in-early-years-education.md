@@ -133,7 +133,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         
         <p>The Department for Education stand by the formula and believe it is an effective way of funding free entitlement. They said: </p>
         
-        <p>We fund local authorities to deliver the free childcare entitlements through the Early Years National Funding Formula, which was introduced following consultation with the sector in 2016, and which allocates our funding fairly and transparently. Each local authority’s Early Years National Funding Formula rate would vary by their additional needs formula factors and their area cost adjustment values.</p>
+        <blockquote>We fund local authorities to deliver the free childcare entitlements through the Early Years National Funding Formula, which was introduced following consultation with the sector in 2016, and which allocates our funding fairly and transparently. Each local authority’s Early Years National Funding Formula rate would vary by their additional needs formula factors and their area cost adjustment values.</blockquote>
        
 <br>
 
