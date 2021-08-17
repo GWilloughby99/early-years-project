@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "'If we did the training better more able children could enter the mainstream' - Catherine McLeod MBE on supporting children with additional needs"
+date:   2021-08-16
+categories:
+tags:
+image: "/assets/article_images/sandpit.jpg"
+image2: "/assets/article_images/mobile-sandpit.jpg"
+---
