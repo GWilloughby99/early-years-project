@@ -38,6 +38,13 @@ The project provided an opportunity to incorporate data journalism. This include
 
 **Regional variation in entitlement rates**
 
-<img src="/assets/misc/authorities-min.png" alt="Regions outside of London are more likely to receive the lowest rate of entitlement funding">
+<img src="/assets/misc/authorities-min.png" alt="Regions outside of London are more likely to receive the lowest rate of entitlement funding" style="width:600px">
 
+**Weekly reporting of Covid-19 cases in the early years**
+
+<img src="/assets/misc/cases-early-years.png" alt="Weekly Covid-19 notifications in early years settings" style="width:600px">
+
+**Tracking attendance in early years providers**
+
+<img src="/assets/misc/attendance.png" alt="Attendance in early years settings has been up and down over the past 18 months" style="width:600px">
 
