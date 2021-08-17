@@ -133,13 +133,13 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         
         <p>The Department for Education stand by the formula and believe it is an effective way of funding free entitlement. They said: </p>
         
-        <blockquote>We fund local authorities to deliver the free childcare entitlements through the Early Years National Funding Formula, which was introduced following consultation with the sector in 2016, and which allocates our funding fairly and transparently. Each local authority’s Early Years National Funding Formula rate would vary by their additional needs formula factors and their area cost adjustment values.</blockquote>
+        <blockquote>"We fund local authorities to deliver the free childcare entitlements through the Early Years National Funding Formula, which was introduced following consultation with the sector in 2016, and which allocates our funding fairly and transparently. Each local authority’s Early Years National Funding Formula rate would vary by their additional needs formula factors and their area cost adjustment values."</blockquote>
        
 <br>
 
           <h1> Regional variation in the national funding formula </h1>
 <br>
-        <p> The current system is structured so that money from the government goes through authorities and not to the early year's settings directly. How much financial support an authority can provide is dependent on the rate they receive through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. The lowest amount an authority can receive is <b>£4.44</b>per hour.</p>
+        <p> The current system is structured so that money from the government goes through authorities and not to the early year's settings directly. How much financial support an authority can provide is dependent on the rate they receive through the <a href="https://www.gov.uk/government/publications/national-funding-formula-tables-for-schools-and-high-needs-2021-to-2022">national funding formula</a>. The lowest amount an authority can receive is <b>£4.44</b> per hour.</p>
 
         <p> The latest figures show that regions outside of London are more likely to receive the lowest hourly rate through the national funding formula. <a href="https://www.gov.uk/government/publications/guide-to-national-funding-formula/guide-to-national-funding-formula">Funding is calculated</a> based on the attendance at the setting in the previous October school census and pupil characteristics. Every child gets a base rate and further funding is for children with additional needs. Local authorities set the rate they give to providers. Yet, this is influenced by how much they get from the government. </p>
   
@@ -155,9 +155,9 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         
         <p>The DfE said that the funding formula accounts for separate factors such as additional needs to form a rate that is fair, regardless of area. </p>
         
-        <p>The formula is made up of a universal base rate, which is the same hourly funding rate for every child in a local authority, with funding factors on top of that for additional needs, using measures of free school meals; disability living allowance and English as an additional language (EAL).</p>
+        <blockquote>The formula is made up of a universal base rate, which is the same hourly funding rate for every child in a local authority, with funding factors on top of that for additional needs, using measures of free school meals; disability living allowance and English as an additional language (EAL). </blockquote>
 
-        <p>The formula also includes an area cost adjustment (ACA) multiplier to reflect variations in local costs. This uses the General Labour Market measure to indicate staff costs and a Nursery Rates Cost Adjustment (NRCA) to indicate operational costs.</p>
+        <blockquote>The formula also includes an area cost adjustment (ACA) multiplier to reflect variations in local costs. This uses the General Labour Market measure to indicate staff costs and a Nursery Rates Cost Adjustment (NRCA) to indicate operational costs.</blockquote>
         
       <hr>
 
