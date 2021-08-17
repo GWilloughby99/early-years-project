@@ -48,7 +48,7 @@ image2: "/assets/article_images/mobile-sandpit.jpg"
 
 <blockquote>"Once you get to primary school, some people complain that there are not enough spaces in special schools. But, I do not believe special school places are the only answer. I know one local authority that is creating more resource units in primary schools. This is so children can still go to mainstream primary school settings and have extra support when they arrive.
 
-"We have to look at this across the whole early years and primary schools. We need to build a capacity in the mainstream so that children are not being pushed over into special schools. The more inclusion we have, the better."</blockquote>
+We have to look at this across the whole early years and primary schools. We need to build a capacity in the mainstream so that children are not being pushed over into special schools. The more inclusion we have, the better."</blockquote>
 
 <img src="{{"/assets/article_images/grass-fence.jpg" | relative_url}}" alt="Picture source: Pixabay">
 
