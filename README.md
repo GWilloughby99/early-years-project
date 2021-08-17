@@ -1,8 +1,10 @@
-# early-years-project
-
-## Project aims ##
+# Early years education #
 
 To view the project, [click here for interview features and data analysis](https://gwilloughby99.github.io/early-years-project/)
+
+<a href="https://gwilloughby99.github.io/early-years-project/"> <img src="/assets/misc/early-years-header.png" alt="Header image for my early years project"></a>
+
+## Project aims ##
 
 This project set out with the following hypotheses:
 - Free entitlement funding is not at the required levels and early years settings are faced with financial difficulties.
@@ -33,5 +35,9 @@ To change the perception of the early years simply being seen as a babysitting s
 ## Data journalism
 
 The project provided an opportunity to incorporate data journalism. This included free entitlement rates, attendance and Covid-19 cases in settings.
+
+**Regional variation in entitlement rates**
+
+<img src="/assets/misc/authorities-min.png" alt="Regions outside of London are more likely to receive the lowest rate of entitlement funding">
 
 
