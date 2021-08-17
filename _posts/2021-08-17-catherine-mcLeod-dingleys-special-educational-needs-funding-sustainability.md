@@ -83,3 +83,11 @@ We have to look at this across the whole early years and primary schools. We nee
 <blockquote>“Even a tiny bit of training on practice-based skills can build confidence on how to work inclusively and it can make such a big difference to the knowledge practitioners have to work with SEND children."</blockquote>
 
 <blockquote>“If we did the training better, we would have more children able and better supported to enter the mainstream. Settings then will not be looking for one-to-one adult support for every child with SEN. Costs would come down for settings so training is the key to making the sector more sustainable.”</blockquote>
+  
+  <hr>
+
+  <p>📧 Want to stay in the loop of all things early years? Subscribe to my <a href="http://eepurl.com/ho9yUv">newsletter</a></p>
+
+  <a href="http://eepurl.com/ho9yUv"> <img src="{{ "/assets/article_images/newsletter-logo.png" | relative_url }}" alt="Picture source: George Willoughby"></a>
+                                                                                                                                            
+  <p> Featured image source: <a href="https://pixabay.com/photos/crayons-coloring-book-coloring-hand-1445053/">Pixabay</a></p>
