@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “The issue is not just the funding per hour but how the funding is structured” — Dr Sara Bonetti on funding inefficiency in early years
+title:  "'The issue is not just the funding per hour but how the funding is structured' — Dr Sara Bonetti on funding inefficiency in early years"
 date:   2021-08-02
 categories:
 tags:
