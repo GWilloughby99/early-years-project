@@ -38,7 +38,7 @@ image2: "/assets/article_images/mobile-loop.jpg"
 
   <p>Members of the sector have <a href="https://gwilloughby99.github.io/early-years-project/2021/07/21/'The-big-challenge-is-finding-solutions-that-do-not-revolve-around-money'-Dr-Verity-Campbell-Barr-on-improving-early-education.html">emphasised the level of skill required</a> to deliver successful early education. The challenge is to attract highly qualified staff and to have a profession that provides a substantial wage. </p>
 
-  <p>Sara sees workforce retention as something that needs reevaluating. She believes that staff are not paid enough and the level of pay is not reflective of the work required to be an early year professional.</p>
+  <p>Sara sees workforce retention as something that needs revaluating. She believes that staff are not paid enough and the level of pay is not reflective of the work required to be an early year professional.</p>
 
   <p>She said: “There are multiple elements at play. On one side, there is the issue of low pay, especially relating to the responsibility of caring for a child. Something to make clear is that managers of settings want to pay their staff a higher wage. But, it is a case of they cannot afford to pay them a higher salary.</p>
 
