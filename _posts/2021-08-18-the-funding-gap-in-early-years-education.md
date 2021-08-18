@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The funding gap in early years education
-date:   2021-08-16
+date:   2021-08-18
 categories: feature
 tags: education funding early years 
 image: "/assets/article_images/jenga-blocks.jpg"
