@@ -73,7 +73,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
         <p>By not giving providers <b>100%</b> of the money through the national funding formula, providers potentially miss out on hundreds of pounds.<a href="#story/950720/slide-1"></a></p>
 
-        <p>The difference is only around 20p a child, but over a year, the money is significant. The chart shows the total amount of funding that a provider could receive in regions in England per year for <b>one child</b>.<a href="#story/950720/slide-1"></a></p>
+        <p>The difference is only around 20p a child, but over a year, the money is significant. The chart shows the total amount of funding that a provider could receive in regions in England per year for <b>one child</b> if 100% of funding was passed-through.<a href="#story/950720/slide-1"></a></p>
 
         <p>For <b>one child</b> across a <b>38-week</b> year in the Inner London region, on average, they would be entitled to a further <b>£334</b> to go towards their education. <a href="#story/950720/slide-2"></a></p>
 
