@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The funding gap in early years education
-date:   2021-08-18
+date:   2021-08-19
 categories: feature
 tags: education funding early years 
 image: "/assets/article_images/jenga-blocks.jpg"
@@ -129,7 +129,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
         <p>The EPI pilot study was limited to 200 settings. But, it could indicate the current funding levels are not covering the cost of providing children with early education.<a href="#story/954994/slide-6"></a></p>
 
 <br>
-        <p> Kirkless Council is one of the many local authorities currently receiving the lowest rate of free entitlement for three and four-year-old children. They get <b>£4.44</b> per hour which is below the average rate given across all other authorities in Yorkshire and the Humber.</p>
+        <p> Kirkless Council is one of the many local authorities in the region currently receiving the lowest rate of free entitlement for three and four-year-old children. They get <b>£4.44</b> per hour which is below the average rate given across all other authorities in Yorkshire and the Humber.</p>
         
        <p><b>Councillor Carole Pattison, Cabinet member for Learning, Aspiration and Communities,</b>, for Kirkless Counil said:</p>
        
