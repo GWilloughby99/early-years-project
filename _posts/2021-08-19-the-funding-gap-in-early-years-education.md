@@ -8,7 +8,7 @@ image: "/assets/article_images/jenga-blocks.jpg"
 image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 ---
 <html lang="en-GB">
-  <p style="font-size: 24px;"><b>Data analysis of current policies and research into free entitlement shows how much money early years providers could be missing out on every year. To be sustainable, free early education requires the correct level of funding for settings to provide the best possible start in life for children</b>. </p>
+  <p style="font-size: 24px;"><b>Early years providers could be missing out on hundreds of pounds each year, data analysis shows. Research into current policies and free entitlement potentially show how much money settings are missing out on every year. Without sufficient funding, free early education is not sustainable and, providers will struggle to provide the best possible start in life for children.</b>. </p>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
