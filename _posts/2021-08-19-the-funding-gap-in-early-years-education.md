@@ -61,7 +61,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 
         <p>By not making it compulsory to give settings 100% of the entitlement funding, providers are potentially missing out on hundreds of pounds every year. This is money that could go towards the education and development of children.</p>
 
-        <p>A difference of 0.20p per hour could lead to better outcomes for children. For each region in England, the upcoming charts show how much money settings miss out on due to the pass-through threshold. </p>
+        <p>Childhood providers already receive a yearly amount. But, a difference of 0.20p per hour could lead to better outcomes for children. For each region in England, the upcoming charts show how much money settings miss out if the funding is equal to the pass-through threshold.  </p>
 
         <p>The figures were calculated using the <a href="https://www.gov.uk/government/publications/early-years-funding-2021-2022">average funding rate given to authorities</a> and what the 95% pass-through requirement would be. The difference was then calculated across a 38 week year with a six-hour working day from 9am to 3pm. The yearly amount is not representative of all local authorities because some are above or below the pass-through rate. </p>
 
