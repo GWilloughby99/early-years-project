@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Solutions to early years education issues
-date:   2021-08-11
+date:   2021-08-31
 categories:
 tags:
 image: "/assets/article_images/header-crayons.jpg"
@@ -40,3 +40,5 @@ image2: "/assets/article_images/mobile-header-crayons.jpg"
 <p> Arguably, one of the biggest challenges for the early years sector is altering the perception of it. Society needs to see early years as a highly professional profession. The importance of the sector needs highlighting. This is to avoid the industry as a place for children to just play and staff be seen as babysitters. As a policy, it start from the top through government communication. The role of an early years professional needs to be stressed, alongside the significance of the first five years of a child's cognitive development.</p>
 
 <p>Avoiding terms like 'childcare' could be one potential change. Furthermore, addressing staff as teachers and not practitioners. Changing the words used to describe the sector and those in it would make a big difference.</p>
+  
+  <h1> What does the sector say? </h1>
