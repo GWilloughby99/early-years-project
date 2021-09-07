@@ -132,7 +132,7 @@ image2: "/assets/article_images/mobile-jenga-blocks.jpg"
 <br>
         <p> Kirkless Council is one of the many local authorities in the region currently receiving the lowest rate of free entitlement for three and four-year-old children. They get <b>£4.44</b> per hour which is below the average rate given across all other authorities in Yorkshire and the Humber.</p>
         
-       <p><b>Councillor Carole Pattison, Cabinet member for Learning, Aspiration and Communities,</b>, for Kirkless Counil said:</p>
+       <p><b>Councillor Carole Pattison, Cabinet member for Learning, Aspiration and Communities,</b>, for Kirkless Council said:</p>
        
        <blockquote>"In Kirklees, we do everything possible to support our children in enjoying the best start in life. Kirklees receives the lowest base rate of funding in the country, but we work hard with provider representatives to maximise early years funding levels, so that children and families can access high standards of care and education. Early years education is absolutely vital in helping our children to be ready for school and able to fulfil their potential."</blockquote>
         
